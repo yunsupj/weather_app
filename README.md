@@ -4,4 +4,5 @@ Make Weather app:
  - Expo
 
 *** Result *** <br>
-Expo: exp://bz-2if.goyoons.weatherapp.exp.direct:80 
+Expo QR code: ![alt text](expo_QR_code.png)
+
