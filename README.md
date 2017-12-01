@@ -4,4 +4,5 @@ Make Weather app:
  - Expo
 
 *** Result ***
+
 Expo: exp://bz-2if.goyoons.weatherapp.exp.direct:80 
