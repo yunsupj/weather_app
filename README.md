@@ -3,5 +3,5 @@ Make Weather app:
  - React Native
  - Expo
 
-***Result***
+*** Result ***
 Expo: exp://bz-2if.goyoons.weatherapp.exp.direct:80 
