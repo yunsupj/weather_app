@@ -6,4 +6,3 @@ Make Weather app:
 *** Result *** <br>
 Expo QR code: 
 ![alt text](expo_QR_code.png)
-
