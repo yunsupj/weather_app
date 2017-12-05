@@ -4,6 +4,6 @@ Make Weather app:
  - Expo
 
 *** Result *** <br>
-Expo QR code: 
+https://exp.host/@goyoons/weatherapp <br>
+https://exp.host/@goyoons/weatherapp
 
-![alt text](expo_QR_code.png)
